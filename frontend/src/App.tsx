@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1> Meu projeto Spring com React</h1>
+      <h1 className="text-primary"> Meu projeto Spring com React</h1>
     </div>
   );
 }
